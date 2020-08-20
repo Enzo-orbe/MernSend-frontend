@@ -1,6 +1,6 @@
 module.exports = {
-    env: {
-        backendURL: "https://node-send-app.herokuapp.com/",
-        frontendURL: "https://mern-send-frontend.vercel.app/"
-    }
-}
+  env: {
+    backendURL: "http://localhost:4000",
+    frontendURL: "http://localhost:3000",
+  },
+};
